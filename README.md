@@ -2,7 +2,7 @@
 
 This project is a **Hotel Management System** with an interactive GUI, built using **Python (Tkinter)**. It integrates **Excel** for backend data storage and **Power BI** for visual reporting and dashboards.
 
-![Welcome Screen](./Hotel%20management%20GUI%20pic.PNG)
+
 
 ---
 
