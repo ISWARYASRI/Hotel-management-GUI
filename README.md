@@ -27,4 +27,9 @@ This project is a **Hotel Management System** with an interactive GUI, built usi
 ---
 
 ## 📂 Project Structure
+- Attractive landing page with restaurant background
+- Promotional message: **“20% off on all meals this month!”**
+- Navigation buttons to access:
+  - ✅ **Management System**
+  - ✅ **Reservation System**
 
